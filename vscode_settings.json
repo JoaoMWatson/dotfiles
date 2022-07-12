@@ -1,0 +1,118 @@
+{
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 24, 
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    // Aplica linhas verticais para lembrar de quebrar linha em códigos muito grandes
+    "editor.rulers": [
+        80,
+        120
+    ],
+    // Aplica um sinal visual na esquerda da linha selecionada
+    "editor.renderLineHighlight": "gutter",
+    "[javascriptreact]": {
+    
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.tabSize": 2,
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.tabSize": 2,
+
+    },
+    "python.showStartPage": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.tabSize": 2,
+    },
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django"
+],
+"cSpell.language": "en,pt,pt-BR",
+"cSpell.userWords": [
+    "Aplicacao",
+    "avro",
+    "bcrypt",
+    "Comentarios",
+    "dataframe",
+    "dbapi",
+    "dotenv",
+    "dropna",
+    "EAFP",
+    "Fiscosys",
+    "getenv",
+    "iterrows",
+    "itertuples",
+    "jsonify",
+    "kargs",
+    "linkedin",
+    "notest",
+    "Padrao",
+    "penup",
+    "PETR",
+    "popen",
+    "pymongo",
+    "responsavel",
+    "rprint",
+    "simetric",
+    "splited",
+    "typer",
+    "Typer",
+    "Visomes",
+    "werkzeug"
+],
+"[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"gitlens.defaultTimeFormat": null,
+"workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+},
+"python.languageServer": "Pylance",
+"jupyter.askForKernelRestart": false,
+"kite.showWelcomeNotificationOnStartup": false,
+"tabnine.experimentalAutoImports": true,
+"notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+},
+"editor.inlineSuggest.enabled": true,
+"[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2,
+},
+"[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2,
+},
+"[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2,
+},
+"workbench.iconTheme": "material-icon-theme",
+"workbench.colorTheme": "Atom One Dark",
+"workbench.startupEditor": "none",
+"github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": true,
+    "markdown": false,
+    "latex": false
+},
+"bracket-pair-colorizer-2.depreciation-notice": false,
+"security.workspace.trust.untrustedFiles": "open",
+"files.exclude": {
+    "**/.git": false
+},
+"[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"explorer.confirmDragAndDrop": false,
+"explorer.confirmDelete": false,
+"simpleBrowser.focusLockIndicator.enabled": false,
+"[markdown]": {
+    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+},
+}
