@@ -1,10 +1,9 @@
 # Env vals
 export ZSH="$HOME/.oh-my-zsh"
-export PATH="$PATH:/home/nostawm/tools/:/home/nostawm/tools:/home/nostawm/tools/oh-my-posh/"
+export TOOLS="$HOME/tools/"
+export PATH="$PATH:/home/nostawm/tools/:/home/nostawm/tools"
 
-# Statup for oh-my-posh terminal/theme
-eval "$(oh-my-posh init zsh --config ~/tools/oh-my-posh/catppuccin_frappe.omp.json)"
-
+ZSH_THEME="daivasmara"
 
 # Plugins.
 plugins=(
