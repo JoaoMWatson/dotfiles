@@ -15,13 +15,7 @@ Shell -> Everforest-Dark
 - autoselectheadset@josephlbarnett.github.com
 - runcat@kolesnikov.se
 - openbar@neuromorph
-- cosmic-dock@system76.com
-- cosmic-workspaces@system76.com
 - ding@rastersoft.com
-- pop-cosmic@system76.com
-- pop-shell@system76.com
-- popx11gestures@system76.com
-- system76-power@system76.com
 - ubuntu-appindicators@ubuntu.com
 - Spotify Controller
 
